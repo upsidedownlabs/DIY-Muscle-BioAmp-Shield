@@ -1,9 +1,17 @@
 # Muscle BioAmp Shield
 An Electromyography (EMG) shield for learning neauroscience with ease.
 
-![Project Category](https://img.shields.io/badge/Category-Bioelectronics-gold) ![BioAmp EXG Pill Revision ](https://img.shields.io/badge/Version-0.1b-success)
+![Project Category](https://img.shields.io/badge/Category-Bioelectronics-gold) ![BioAmp EXG Pill Revision ](https://img.shields.io/badge/Version-v0.1-success)
 
-![Muscle BioAmp Shield](graphics/BioAmpShield.png)
+Note: This version was a limited quantity beta release with some issues. Don't use the design & docs of this version for any development.
+
+![Muscle BioAmp Shield](graphics/board/BioAmpShieldFront.png)
+
+![Muscle BioAmp Shield](graphics/board/BioAmpShieldBack.png)
+
+![Muscle BioAmp Shield](graphics/board/dimensions.png)
+
+![Muscle BioAmp Shield](graphics/schematic.png)
 
 
 
