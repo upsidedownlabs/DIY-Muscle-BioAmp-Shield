@@ -3,14 +3,16 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
-*.sch-bak
+*sch-bak
 *~
 *.kicad_prl
 _autosave-*
+*_*#
 *.tmp
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*.zip
 muscle-bioamp-biscute-backups
 
 # Netlist files (exported from Eeschema)
