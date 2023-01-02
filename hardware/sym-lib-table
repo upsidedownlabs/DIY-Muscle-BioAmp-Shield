@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "BioAmpShield-rescue")(type "Legacy")(uri "${KIPRJMOD}/BioAmpShield-rescue.lib")(options "")(descr ""))
+  (lib (name "Muscle-BioAmpShield-rescue")(type "Legacy")(uri "${KIPRJMOD}/Muscle-BioAmpShield-rescue.lib")(options "")(descr ""))
 )
