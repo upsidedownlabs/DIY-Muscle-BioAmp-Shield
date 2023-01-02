@@ -1,13 +1,20 @@
 # Muscle BioAmp Shield
-An Electromyography (EMG) shield for learning neauroscience with ease.
 
-![Project Category](https://img.shields.io/badge/Category-Bioelectronics-gold) ![BioAmp EXG Pill Revision ](https://img.shields.io/badge/Version-v0.1-success)
+![Project Category](https://img.shields.io/badge/Category-Bioelectronics-gold) ![BioAmp EXG Pill Revision ](https://img.shields.io/badge/Version-v0.2-success)
 
-Note: This version was a limited quantity beta release with some issues. Don't use the design & docs of this version for any development.
+Muscle BioAmp Shield is an ElectroMyography (EMG) shield for learning neuroscience with ease. It is inspired from Back Yard Brains (BYB) Spiker shield and provides similar features like user buttons & LED Bar.
 
-![Muscle BioAmp Shield](graphics/board/BioAmpShieldFront.png)
+| Assembled | With cables & wires |
+| :-------: | :--------: |
+| ![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield-Assembled.png) | ![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield-With-Wires.png) |
 
-![Muscle BioAmp Shield](graphics/board/BioAmpShieldBack.png)
+![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield.png)
+
+![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield-Angle.png)
+
+## Hardware
+
+Muscle BioAmp Shield has been created using KiCad and all the design files can be found under [hardware](hardware/) folder, including [Interactive BOM](hardware/bom) file. Images below shows a quick overview of the hardware design.
 
 ![Muscle BioAmp Shield](graphics/board/dimensions.png)
 
