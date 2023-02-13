@@ -10,7 +10,7 @@ Muscle BioAmp Shield is an ElectroMyography (EMG) shield for learning neuroscien
 
 ![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield.png)
 
-![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield-Angle.png)
+![Muscle BioAmp Shield](graphics/board/Muscle-BioAmpShield-Tilted2.png)
 
 ## Hardware
 
