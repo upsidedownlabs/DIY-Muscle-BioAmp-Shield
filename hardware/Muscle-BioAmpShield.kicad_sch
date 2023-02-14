@@ -5,11 +5,11 @@
   (paper "A4")
 
   (title_block
-    (title "Muscle BioAmp Shield")
+    (title "DIY Muscle BioAmp Shield")
     (date "2023-02-13")
     (rev "v0.3")
     (company "Upside Down Labs")
-    (comment 1 "BackYard Brains hardware compatible")
+    (comment 1 "BackYardBrains compatible")
     (comment 2 "Arduino Shield for EMG ")
     (comment 3 "Quad OpAmp based design")
     (comment 4 "DIY Muscle BioAmp Shield")
