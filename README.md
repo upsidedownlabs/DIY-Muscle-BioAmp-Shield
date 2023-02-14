@@ -1,6 +1,12 @@
 # Muscle BioAmp Shield
 
-![Project Category](https://img.shields.io/badge/Category-Bioelectronics-gold) ![BioAmp EXG Pill Revision ](https://img.shields.io/badge/Version-v0.2-success)
+![Project Category](https://img.shields.io/badge/Category-Bioelectronics-gold) ![Muscle BioAmp Shield Revision ](https://img.shields.io/badge/Version-v0.3-success)
+[![Muscle BioAmp Shield store link](https://img.shields.io/badge/Buy-Store_(India)-white)](https://store.upsidedownlabs.tech/product/muscle-bioamp-shield-v0-3/)
+[![Muscle BioAmp Shield Tindie link](https://img.shields.io/badge/Buy-Tindie-cyan)](https://www.tindie.com/products/upsidedownlabs/muscle-bioamp-shield-v03-arduino-shield-for-emg/)
+[![Muscle BioAmp Shield intro video ](https://img.shields.io/badge/Intro-YouTube-red)]()
+[![Upside Down Labs GitHub Sponsors page ](https://img.shields.io/badge/Support-GitHub_Sponsor-00B5AC)](https://github.com/sponsors/upsidedownlabs)
+[![Upside Down Labs GitHub PayPal page](https://img.shields.io/badge/Support-PayPal-00B5AC)](https://paypal.me/upsidedownlabs)
+
 
 Muscle BioAmp Shield is an ElectroMyography (EMG) shield for learning neuroscience with ease. It is inspired from Back Yard Brains (BYB) Spiker shield and provides similar features like user buttons & LED Bar.
 
