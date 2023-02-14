@@ -48,8 +48,18 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        "clearance|167898000|109615000|53f1a115-2ade-45df-867b-0c2295819fce|358523b2-8c59-4d54-874f-ae287246e7a2",
+        "clearance|167898000|117115000|e5da8f83-c56b-4485-89ba-9a482faa7b52|91b5e17a-8d17-486e-9efd-1610c2d27a00",
+        "courtyards_overlap|176547999|106165001|00000000-0000-0000-0000-000061e730b6|00000000-0000-0000-0000-000061e770d8"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -115,12 +125,17 @@
       },
       "track_widths": [
         0.0,
-        0.3
+        0.3,
+        0.4
       ],
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.5,
+          "drill": 0.4
         },
         {
           "diameter": 0.8,
