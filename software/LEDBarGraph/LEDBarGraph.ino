@@ -65,15 +65,15 @@ void loop() {
 
 		// Update LED bar graph
     	for(int i = 0; i<=total_leds; i++){
-    		if(i>(envelop/7 - 2)){
+    		if(i>(envelop/4 - 14)){
       			digitalWrite(led_bar[i], LOW);
     		} else {
       			digitalWrite(led_bar[i], HIGH);
     		}
   		}
 
-		Serial.print(signal);
-		Serial.print(",");
+//		Serial.print(signal);
+//		Serial.print(",");
 		Serial.println(envelop);
 	}
 }
