@@ -17,7 +17,7 @@ Muscle BioAmp Shield is an all-in-one Arduino Uno ElectroMyography (EMG) shield 
 
 ![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield.png)
 
-![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield-Tilted-2.png)
+![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield-Tilted-1.png)
 
 ## Hardware
 
