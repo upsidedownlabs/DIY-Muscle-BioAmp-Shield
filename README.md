@@ -17,7 +17,13 @@ Muscle BioAmp Shield is an all-in-one Arduino Uno ElectroMyography (EMG) shield 
 
 ![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield.png)
 
-![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield-Tilted-1.png)
+![Muscle BioAmp Shield](graphics/board/Muscle-BioAmp-Shield-Tilted-1.png)  
+
+## Features & Specifications
+
+It comes with various plug-and-play options so you can connect hundreds of devices like OLED screens, character displays, accelerometers, and servo controllers to name just a few using the I2C interface.
+
+![Muscle BioAmp Shield Specifications](graphics/board/Muscle-BioAmp-Shield_Specifications.jpg)
 
 ## Hardware
 
@@ -26,13 +32,6 @@ Muscle BioAmp Shield has been created using KiCad and all the design files can b
 ![Muscle BioAmp Shield](graphics/board/dimensions.png)
 
 ![Muscle BioAmp Shield](graphics/board/Schematic.png)
-
-
-## Features & Specifications
-
-It comes with various plug-and-play options so you can connect hundreds of devices like OLED screens, character displays, accelerometers, and servo controllers to name just a few using the I2C interface.
-
-![Muscle BioAmp Shield Specifications](graphics/board/Muscle-BioAmp-Shield_Specifications.png)
 
 
 ## License
