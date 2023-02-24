@@ -53,6 +53,8 @@ You can get your own Muscle BioAmp Shield bag of parts from [our store](https://
 
 ## What's in the kit
 
+Muscle BioAmp Shield comes in two variants: Pre-Assembled and DIY (Do-It-Yourself). You can order any of the two variants as per your requirement.
+
 ![DIY Kit](graphics/board/DIY_Kit.jpg)
 ![DIY Kit](graphics/board/Preassembled_Kit.jpg)
 
