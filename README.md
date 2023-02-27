@@ -21,35 +21,35 @@ You can get your own Muscle BioAmp Shield bag of parts from [our store](https://
 
 | Step 1 - Bare board | Step 2 - 1M Resistors | Step 3 - 330R Resistors| 
 | :----: | :----: | :----: |
-| ![](graphics/Assembly/01_Bare_Board.png)|![](graphics/Assembly/02_1M_Resistors.png)|![](graphics/Assembly/03_330R_Resistors.png)|
+| ![](graphics/Assembly/jpgs/01_Bare_Board.jpg)|![](graphics/Assembly/jpgs/02_1M_Resistors.jpg)|![](graphics/Assembly/jpgs/03_330R_Resistors.jpg)|
 
 | Step 4 - 10K Resistors | Step 5 - 22K Resistors | Step 6 - 1K Resistors| 
 | :----: | :----: | :----: |
-| ![](graphics/Assembly/04_10K_Resistors.png)|![](graphics/Assembly/05_22K_Resistors.png)|![](graphics/Assembly/06_1K_Resistors.png)|
+| ![](graphics/Assembly/jpgs/04_10K_Resistors.jpg)|![](graphics/Assembly/jpgs/05_22K_Resistors.jpg)|![](graphics/Assembly/jpgs/06_1K_Resistors.jpg)|
 
 | Step 7 - 220K Resistors | Step 8 - 1nF Capacitors | Step 9 - 100nF Capacitors| 
 | :----: | :----: | :----: |
-| ![](graphics/Assembly/07_220K_Resistors.png)|![](graphics/Assembly/08_1nF_Capacitors.png)|![](graphics/Assembly/09_100nF_Capacitors.png)|
+| ![](graphics/Assembly/jpgs/07_220K_Resistors.jpg)|![](graphics/Assembly/jpgs/08_1nF_Capacitors.jpg)|![](graphics/Assembly/jpgs/09_100nF_Capacitors.jpg)|
 
 | Step 10 - 100pF Capacitors | Step 11 - Servo Header Pin | Step 12 - Buttons| 
 | :----: | :----: | :----: |
-| ![](graphics/Assembly/10_100pF_Capacitors.png)|![](graphics/Assembly/11_Angled_Header_Pins.png)|![](graphics/Assembly/12_5x5mm_Buttons.png)|
+| ![](graphics/Assembly/jpgs/10_100pF_Capacitors.jpg)|![](graphics/Assembly/jpgs/11_Angled_Header_Pins.jpg)|![](graphics/Assembly/jpgs/12_5x5mm_Buttons.jpg)|
 
 | Step 13 - Optoisolator | Step 14 - Angled JST Connectors | Step 15 - Straight JST Connectors| 
 | :----: | :----: | :----: |
-| ![](graphics/Assembly/13_OptoIsolator.png)|![](graphics/Assembly/14_JST_PH_Angled_Connectors.png)|![](graphics/Assembly/15_JST_PH_Straight_Connectors.png)|
+| ![](graphics/Assembly/jpgs/13_OptoIsolator.jpg)|![](graphics/Assembly/jpgs/14_JST_PH_Angled_Connectors.jpg)|![](graphics/Assembly/jpgs/15_JST_PH_Straight_Connectors.jpg)|
 
 | Step 16 - IC Socket | Step 17 - IC | Step 18 - LEDs| 
 | :----: | :----: | :----: |
-| ![](graphics/Assembly/16_IC_Socket.png)|![](graphics/Assembly/17_IC.png)|![](graphics/Assembly/18_LEDs.png)|
+| ![](graphics/Assembly/jpgs/16_IC_Socket.jpg)|![](graphics/Assembly/jpgs/17_IC.jpg)|![](graphics/Assembly/jpgs/18_LEDs.jpg)|
 
 | Step 19 - 3.5mm Headphone Jack | Step 20 - 2.2uF Capacitor | Step 21 - 1uF Capacitor| 
 | :----: | :----: | :----: |
-| ![](graphics/Assembly/19_3.5mm_Headphone_Jack.png)|![](graphics/Assembly/20_2.2uF_Capacitor.png)|![](graphics/Assembly/21_1uF_Capacitor.png)|
+| ![](graphics/Assembly/jpgs/19_3.5mm_Headphone_Jack.jpg)|![](graphics/Assembly/jpgs/20_2.2uF_Capacitor.jpg)|![](graphics/Assembly/jpgs/21_1uF_Capacitor.jpg)|
 
 | Step 22 - 470uF Capacitors | Step 23 - Shield Header Pins | Step 24 - Shield Ready| 
 | :----: | :----: | :----: |
-| ![](graphics/Assembly/22_470uF_Capacitor.png)|![](graphics/Assembly/23_Header_Pins.png)|![](graphics/Assembly/24_Assembled.png)|
+| ![](graphics/Assembly/jpgs/22_470uF_Capacitor.jpg)|![](graphics/Assembly/jpgs/23_Header_Pins.jpg)|![](graphics/Assembly/jpgs/24_Assembled.jpg)|
 
 ## What's in the kit
 
