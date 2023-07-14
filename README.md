@@ -60,7 +60,7 @@ Muscle BioAmp Shield comes in two variants: Pre-Assembled and DIY (Do-It-Yoursel
 
 ## Hardware
 
-Muscle BioAmp Shield has been created using KiCad and all the design files can be found under [hardware](hardware/) folder, including [Interactive BOM](hardware/bom) file. Images below shows a quick overview of the hardware design.
+Muscle BioAmp Shield has been created using KiCad and all the design files can be found under [hardware](hardware/) folder, including [Interactive BOM](https://upsidedownlabs.github.io/DIY-Muscle-BioAmp-Shield/ibom.html) file. Images below shows a quick overview of the hardware design.
 
 | PCB front | PCB back |
 | :-------: | :--------: |
